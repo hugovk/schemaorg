@@ -38,7 +38,7 @@
 <div typeof="rdfs:Class" resource="http://schema.org/Audiobook">
 	<link property="http://schema.org/isPartOf" href="http://bib.schema.org" />
 	<span class="h" property="rdfs:label">Audiobook</span>
-	<span property="rdfs:comment">An ENORMOUSE audiobook.</span>
+	<span property="rdfs:comment">An little audiobook.</span>
 	<span> Subclass of:
 			     <a property="rdfs:subClassOf" href="http://schema.org/Book">schema:Book</a>
 			     <a property="rdfs:subClassOf" href="http://schema.org/AudioObject">schema:AudioObject</a>
